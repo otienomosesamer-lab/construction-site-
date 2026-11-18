@@ -6,6 +6,14 @@
 
 A web-based system that replaces notebooks / separate spreadsheets with one central record for materials received & issued, stock, equipment assignment & location, and maintenance — with reports for the Project Manager.
 
+## GitHub bridge & VS Code
+
+Repo: https://github.com/otienomosesamer-lab/construction-site- — branch `main`.
+Clone in VS Code: `git clone https://github.com/otienomosesamer-lab/construction-site-.git`
+then rename the folder to `construction-tracking-system` and open it in VS Code.
+Pull Archie's changes: Source Control → Pull, or `git pull origin main`.
+Full steps: see `VSCODE.md`. Changes: see `CHANGELOG.md`.
+
 ## Tech stack (Proposal §3.3.4)
 
 | Component | Tool | Reason |
