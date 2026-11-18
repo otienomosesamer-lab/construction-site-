@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PHP / local dev
+*.log
+.env
+
+# XAMPP / local runtime artefacts (never commit a live DB dump with real data)
+*.sql.bak
+
+# Keep setup.php and database.sql in the repo: they are the one-time
+# installer and the schema + sample data for this student project.
+# Delete setup.php from the live server after first run (see README).
